@@ -1,27 +1,26 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "A Passion for Science, a Commitment to Nature: Discovering, Learning, and Preserving Our World!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  john:
-    name: John
-    display_name: John    
+  fang:
+    name: Leon
+    display_name: Leon
     avatar: 'assets/images/avatar.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "Write a short description of the Leon Fang here."
 
 # Plugins
 plugins:
