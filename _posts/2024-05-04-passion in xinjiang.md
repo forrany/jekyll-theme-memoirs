@@ -5,8 +5,6 @@ author: fang
 categories: [ Lifestyle ]
 tags: [ Xinjiang ]
 image: assets/images/lue_1.jpg
-rating: 4.5
-weight: 10
 ---
 
 In the far northwest of China, Xinjiang is renowned for its rich historical heritage and unique natural landscapes. From vast deserts to towering mountains, this region boasts an incredibly diverse ecological environment. However, while we marvel at these natural wonders, we also face significant challenges in ecological conservation.

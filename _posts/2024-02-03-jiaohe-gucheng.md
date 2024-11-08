@@ -5,7 +5,6 @@ author: fang
 categories: [ Lifestyle ]
 tags: [ Xinjiang ]
 image: assets/images/jiaohe.jpg
-rating: 4.5
 weight: 3
 ---
 
