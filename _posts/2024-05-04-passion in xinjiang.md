@@ -4,6 +4,7 @@ title:  "Exploring the Natural Wonders of Xinjiang: From Ancient Civilizations t
 author: fang
 categories: [ Lifestyle ]
 tags: [ Xinjiang ]
+comments: false
 image: assets/images/lue_1.jpg
 ---
 

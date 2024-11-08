@@ -4,6 +4,7 @@ title:  "Journey Through Time: Exploring the Jiaohe Ruins in Xinjiang"
 author: fang
 categories: [ Lifestyle ]
 tags: [ Xinjiang ]
+comments: false
 image: assets/images/jiaohe.jpg
 weight: 3
 ---
